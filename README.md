@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Rafael Gomes 👋</h1>
-<h3 align="center">Sou um desenvolvedor back-end e entusiasta de tecnologia e inovcações digitais em modo geral.</h3>
+<h3 align="center">Sou um desenvolvedor back-end, entusiasta de tecnologia e inovações digitais em modo geral.</h3>
 
 - 🔭 Faço parte do time de Engenharia & Arquitetura de Software em uma empresa que é a **maior Adobe Partner LATAM.**
 
